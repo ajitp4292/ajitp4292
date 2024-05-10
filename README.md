@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitp4292&label=Profile%20views&color=0e75b6&style=flat" alt="ajitp4292" /> </p>
 
-- 🌱 I’m currently learning **Angular,Typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **javascript,react.js,node.js,SpringBoot,Spring Framework,Java**
 
