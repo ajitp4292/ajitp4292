@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javascript,react.js,node.js,SpringBoot,Spring Framework,Java**
 
-- 📫 How to reach me **ajitp4292@gmail.com/patil.aji@northeastern.edu**
+- 📫 How to reach me **ajitp9242@gmail.com/patil.aji@northeastern.edu**
 - LATEST CLOUD NATIVE WEB APPLICATION PROJECT
 <img src="CSYE6225 - Ajit.png"/>
 
